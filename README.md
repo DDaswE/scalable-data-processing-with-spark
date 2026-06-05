@@ -2,6 +2,30 @@
 
 Spark-based data processing exercises covering integer counting, salary analysis, and optimized word-frequency analysis.
 
+## Preview
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./salary_boxplot.png" alt="Salary distribution box plot" width="100%">
+    </td>
+    <td width="50%">
+      <img src="./word_top10.png" alt="Top word frequency chart" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./salary_piechart.png" alt="Salary distribution pie chart" width="100%">
+    </td>
+    <td width="50%">
+      <img src="./word_frequency_analysis.png" alt="Word frequency analysis chart" width="100%">
+    </td>
+  </tr>
+</table>
+
 ## Project summary
 
 This project shows how Spark can be used for scalable batch analysis across both structured and unstructured data. The work includes RDD transformations, DataFrame aggregation, broadcast variables, partition-level computation, and simple statistical visualization.
@@ -53,4 +77,3 @@ The assignment explores three practical questions:
 ## Notes
 
 All scripts load local files from this repository directly, so the project can be opened or copied to another machine without editing hard-coded personal paths.
-
