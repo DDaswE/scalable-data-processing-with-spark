@@ -32,7 +32,7 @@ This project shows how Spark can be used for scalable batch analysis across both
 
 ## Problem
 
-The assignment explores three practical questions:
+This project explores three practical questions:
 
 1. How can distributed computation count and classify large numeric streams efficiently?
 2. How can Spark be used to summarize salary data across departments?
